@@ -13,7 +13,7 @@ class Dog:
         """Enables the dog you create to bark."""
         print(self.DogName + " says, \"Woof!\"")
 
-    def about():
+    def about(self):
         """
         Python OOP example: Dog
         By: Tommy H. Yeargin, Jr.
